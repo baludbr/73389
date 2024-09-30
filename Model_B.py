@@ -1,5 +1,5 @@
-# Before Optimization (main branch)
+# After Optimization (feature/optimization branch)
 def process_data(data):
-    # Original processing logic with higher latency
-    result = some_complex_function(data)
-    return result
+    # Optimized processing logic with the aim of lower latency
+    optimized_result = optimized_function(data)
+    return optimized_result
